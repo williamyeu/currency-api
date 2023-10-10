@@ -21,6 +21,8 @@ pip install -r requirements.txt
 uvicorn main:app
 ```
 
+6. api會運行在localhost:8000
+
 ## 運行測試
 ```
 pytest test_main.py
